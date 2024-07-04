@@ -29,7 +29,7 @@
             "titulo": "Spring Framework.",
             "video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
             "foto": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
-            "categoria": "BackEnd",
+            "categoria": "Back End",
             "descripcion": "¿Conoce Spring Framework?"
         },
         {
@@ -37,7 +37,7 @@
             "titulo": "Qué es SQL y NOSQL",
             "video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
             "foto": "https://i.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
-            "categoria": "BackEnd",
+            "categoria": "Back End",
             "descripcion": "Álvaro Camacho lo explica en este vídeo. ¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL)?"
         },
         {
@@ -45,7 +45,7 @@
             "titulo": "Simplificando tu código en Java. Conoce los enum",
             "video": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
             "foto": "https://i.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
-            "categoria": "BackEnd",
+            "categoria": "Back End",
             "descripcion": "Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum."
         },
         {
@@ -53,7 +53,7 @@
             "titulo": "Que son las softs skills",
             "video": "https://www.youtube.com/watch?v=vhwspfvI52k&t=189s",
             "foto": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
-            "categoria": "Innovacion y Gestion",
+            "categoria": "Innovación y Gestión",
             "descripcion": "Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills son importantes ."
         },
         {
@@ -61,7 +61,7 @@
             "titulo": "7 Soft Skills más deseadas por las empresas",
             "video": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
             "foto": "https://i.ytimg.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
-            "categoria": "Innovacion y Gestion",
+            "categoria": "Innovación y Gestión",
             "descripcion": "¿Sabes cuáles son las 7 más buscadas por las empresas?"
         },
         {
@@ -69,7 +69,7 @@
             "titulo": "Ventajas de las metodologías Ágiles ",
             "video": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
             "foto": "https://i.ytimg.com/vi/p4kpHAvQH9w/mqdefault.jpg",
-            "categoria": "Innovacion y Gestion",
+            "categoria": "Innovación y Gestión",
             "descripcion": "Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios"
         }
     ]
