@@ -22,7 +22,7 @@
             "video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
             "foto": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
             "categoria": "Front End",
-            "descripcion": "En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End."
+            "descripcion": "Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End."
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
             "foto": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
             "categoria": "BackEnd",
-            "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework?"
+            "descripcion": "¿Conoce Spring Framework?"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
             "foto": "https://i.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
             "categoria": "BackEnd",
-            "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo."
+            "descripcion": "Álvaro Camacho lo explica en este vídeo. ¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL)?"
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "video": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
             "foto": "https://i.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
             "categoria": "BackEnd",
-            "descripcion": "En este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum."
+            "descripcion": "Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum."
         },
         {
             "id": 8,
@@ -54,7 +54,7 @@
             "video": "https://www.youtube.com/watch?v=vhwspfvI52k&t=189s",
             "foto": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
             "categoria": "Innovacion y Gestion",
-            "descripcion": "En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
+            "descripcion": "Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills son importantes ."
         },
         {
             "id": 9,
@@ -70,7 +70,7 @@
             "video": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
             "foto": "https://i.ytimg.com/vi/p4kpHAvQH9w/mqdefault.jpg",
             "categoria": "Innovacion y Gestion",
-            "descripcion": "Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa."
+            "descripcion": "Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios"
         }
     ]
 }
